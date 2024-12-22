@@ -37,6 +37,10 @@
     4. Type npm start to start the server
     5. Use an API testing tool like Insomnia Core to test the API endpoints
 
+Click the following link to see a video demonstration of the user actions: [User Actions Demo](./assets/Mod17_Challenge_user_actions.mp4)
+
+Click the following link to see a video demonstration of the thought and reaction actions: [Thought and Reaction Actions Demo](./assets/Mod17_Challenge_thought_actions.mp4)
+
 
   ## Contribution  
   Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
